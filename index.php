@@ -122,7 +122,7 @@ $name=$_SESSION["fname"];
         <div class="container">
            <div class="center wow fadeInDown">
                 <h2>Our Features</h2>
-                <p class="lead">We make the best quality plastic products in the world. But, don't take our word for it...</p>
+                <p class="lead">We make THE BEST quality plastic products in the world. But, don't take our word for it...</p>
             </div>
 
             <div class="row">
